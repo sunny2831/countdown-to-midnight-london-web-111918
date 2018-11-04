@@ -10,6 +10,6 @@ def countdown(num_secs)
 end
 
 def countdown_with_sleep(x)
-  x = x 
+  x = x
   while x > 5
     
