@@ -9,3 +9,5 @@ def countdown(num_secs)
   end
   return "HAPPY NEW YEAR!"
 end
+
+countdown(12)
